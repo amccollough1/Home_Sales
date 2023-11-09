@@ -16,12 +16,14 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
     What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
-    ![image](https://github.com/amccollough1/Home_Sales/assets/133404805/6f7b089b-4b93-44ca-a5ed-ed9b8547e3fb)
+    ![image](https://github.com/amccollough1/Home_Sales/assets/133404805/f8161593-c5d2-405f-9314-ec0a15901efa)
+
 
 
     What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
-    ![image](https://github.com/amccollough1/Home_Sales/assets/133404805/6bdd330a-5b91-44e8-9cc0-d0599b186cdc)
+   ![image](https://github.com/amccollough1/Home_Sales/assets/133404805/f6e8c061-36ea-4f37-8397-db9571872fd2)
+
 
 
     What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
